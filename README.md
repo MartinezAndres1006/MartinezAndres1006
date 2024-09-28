@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Andres Martinez</h1>
-<h3 align="center">Soy un Desarrollador Full-Stack, Nací en Venezuela y vivo en Argentina</h3>
+<h3 align="center">Soy un Desarrollador Full-Stack Trainee, Nací en Venezuela y vivo en Argentina</h3>
 
 - 🔭 He desarrollado desafios de Diseño web con Alura [Encriptador De Texto](https://martinezandres1006.github.io/challenge-alura-encriptador-texto/)
 
